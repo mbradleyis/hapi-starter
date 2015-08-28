@@ -1,0 +1,26 @@
+{
+  "name": "hapi-starter",
+  "version": "0.0.1",
+  "description": "A hapi.js start project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbradleyis/hapi-starter.git"
+  },
+  "keywords": [
+    "hapi",
+    "starter"
+  ],
+  "author": "Michael Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbradleyis/hapi-starter/issues"
+  },
+  "homepage": "https://github.com/mbradleyis/hapi-starter#readme",
+  "dependencies": {
+    "hapi": "^9.0.3"
+  }
+}
